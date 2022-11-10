@@ -41,3 +41,9 @@ With explanations :
       To do so we enter as first parameter the source image, then the image M where we did the changes and finally the wished size for this new image.
       Finally, we show the result with « imshow ».
       And after press a button we destroy the two windows where are the input and output image.
+      
+![image](https://user-images.githubusercontent.com/79518374/201116418-bb3defe4-6b2b-4de8-a156-0768033813eb.png)
+Unfortunately the output image isn’t perfect because with this program we don’t redifine the size of the box and the environnement around it, so it give us a strange image, not very realistic even if it seem to have been take from a front view.
+It’s why when you take a 3D objet it don’t show a very beautiful image. It would have been better with a 2D object.
+
+
